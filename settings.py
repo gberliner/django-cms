@@ -178,6 +178,7 @@ INSTALLED_APPS = [
     'djangocms_style',
     'djangocms_googlemap',
     'djangocms_video',
+    'djangocms_column',
     'my_demo'
 ]
 
